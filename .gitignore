@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TrainingProject/bin/Debug
+/TrainingProject/obj/Debug
+/.vs/TrainingProject/v15
