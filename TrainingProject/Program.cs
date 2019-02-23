@@ -10,7 +10,8 @@ namespace TrainingProject
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("C# Rocks!");
+            Console.ReadKey();
         }
     }
 }
